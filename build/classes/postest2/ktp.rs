@@ -1,0 +1,10 @@
+tugas_2.ktp$5
+tugas_2.ktp$4
+tugas_2.ktp
+tugas_2.ktp$7
+tugas_2.ktp$6
+tugas_2.ktp$1
+tugas_2.ktp$3
+tugas_2.ktp$2
+tugas_2.ktp$9
+tugas_2.ktp$8
